@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/zakariasersoub/leetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/zakariasersoub/leetCode/tree/master/0013-roman-to-integer) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/zakariasersoub/leetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 ## Math
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/zakariasersoub/leetCode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/zakariasersoub/leetCode/tree/master/0344-reverse-string) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/zakariasersoub/leetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 ## Array
 |  |
 | ------- |
@@ -24,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/zakariasersoub/leetCode/tree/master/0344-reverse-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/zakariasersoub/leetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
+## Sliding Window
+|  |
+| ------- |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/zakariasersoub/leetCode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 <!---LeetCode Topics End-->
